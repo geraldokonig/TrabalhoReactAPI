@@ -69,7 +69,7 @@ O projeto pode ser executado também no navegador ou em um emulador compatível 
 Clone o repositório:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/geraldokonig/TrabalhoReactAPI
 ```
 
 Entre na pasta do projeto:
